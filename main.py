@@ -229,3 +229,4 @@ if __name__ == "__main__":
     myapp.show()
     sys.exit(app.exec_())
 
+# testing Git in Android
